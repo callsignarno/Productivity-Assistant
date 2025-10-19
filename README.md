@@ -1,4 +1,4 @@
-## What technologies are used for this project?
+## Technologies used for this project?
 
 This project is built with:
 
@@ -8,4 +8,6 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
+## Project webpage
 
+productivityassistant.lovable.app
