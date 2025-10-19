@@ -10,4 +10,4 @@ This project is built with:
 
 ## Project webpage
 
-productivityassistant.lovable.app
+[productivityassistant.lovable.app]
