@@ -10,4 +10,5 @@ This project is built with:
 
 ## Project webpage
 
-[Link}(productivityassistant.lovable.app)
+[Productivity Assistant](https://productivityassistant.lovable.app/)
+
